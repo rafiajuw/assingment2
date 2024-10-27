@@ -1,0 +1,16 @@
+.foter{
+  color: aquamarine;
+  background-color: aliceblue;  
+text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0%;
+  width: 100%;
+  font-size: large;
+  
+}
+.para{
+    color: azure;
+    background-color: brown;
+    font-size: medium
+}

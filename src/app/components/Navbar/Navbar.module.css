@@ -1,0 +1,19 @@
+.container{
+    color: blue;
+    background-color: beige;
+    text-align: left;
+  padding: 20px;
+  position-anchor:inherit;
+  bottom: 0;
+  width: 100%;
+  font-size: large;
+  display: flex;
+  justify-content: space-between;
+}
+.heading{
+    color: rgb(2, 48, 32);
+    background-color: azure;
+    display: flex;
+    justify-content: space-evenly;
+    
+}

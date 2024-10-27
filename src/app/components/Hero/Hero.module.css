@@ -1,0 +1,18 @@
+.heading{
+    color: blueviolet;
+    background-color: beige;
+    text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0%;
+  width: 100%;
+  font-size: large;
+
+
+}
+.paragraph{
+    color: aqua;
+    background-color: blanchedalmond;
+    background-size: cover;
+
+}
